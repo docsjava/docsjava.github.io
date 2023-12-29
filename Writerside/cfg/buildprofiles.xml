@@ -1,0 +1,25 @@
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+    <variables>
+        <primary-color>frozen</primary-color>
+        <custom-favicons>logo_a.svg</custom-favicons>
+        <header-logo>logo_a.svg</header-logo>
+        <product-web-url>https://docsjava.github.io/overview.html</product-web-url>
+        <download-title>Get Awesome App</download-title>
+        <download-page>https://example.com/product.exe</download-page>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
+    <build-profile instance="instance_id"/>
+    <footer>
+        <copyright>2000-2023</copyright>
+        <social type="twitter" href="https://twitter.com/docsjava"/>
+        <social type="linkedin" href="https://linkedin.com/showcase/docsjava"/>
+        <social type="instagram" href="https://instgram.com/docsjava"/>
+        <social type="youtube" href="https://youtube.com/@docsjava"/>
+        <social type="blog" href="https://twitter.com/docsjava"/>
+        <social type="rss" href="https://rss.com/feeds.xml"/>
+        <social type="email" href="email@example.com"/>
+        <link href="https://example.com/terms-an-conditions.html">Terms and conditions</link>
+        <link href="https://example.com/code-of-conduct.html">Code of Conduct</link>
+    </footer>
+</buildprofiles>

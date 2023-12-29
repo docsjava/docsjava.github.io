@@ -2,11 +2,11 @@
                xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
     <variables>
         <primary-color>frozen</primary-color>
-        <custom-favicons>logo_a.svg</custom-favicons>
-        <header-logo>logo_a.svg</header-logo>
+        <custom-favicons>favicon.ico,favicon-16x16.png,favicon-32x32.png</custom-favicons>
+        <header-logo>logo_main.svg</header-logo>
         <product-web-url>https://docsjava.github.io/overview.html</product-web-url>
-        <download-title>Get Awesome App</download-title>
-        <download-page>https://example.com/product.exe</download-page>
+        <download-title>Contribute</download-title>
+        <download-page>https://github.com/docsjava</download-page>
         <showDownloadButton>true</showDownloadButton>
     </variables>
     <build-profile instance="instance_id"/>

@@ -19,10 +19,11 @@ You are welcome to join our
 Before you do, please read our [Code of conduct](https://plugins.jetbrains.com/plugin/20158-writerside/docs/writerside-code-of-conduct.html).
 We assume that you’ve read and acknowledged it before joining.
 
-#### Feedback {collapsible="true"}
-
-You can also always email
-: [opentry@outlook.com](mailto:writerside@jetbrains.com).
+> **Disclaimer**
+>
+> This is not official site of java. This content is displaying on this site only for learning purpose.
+>
+{style="warning"}
 
 > **Note**
 >
@@ -32,11 +33,28 @@ You can also always email
 >
 {style="note"}
 
+#### Feedback {collapsible="true"}
+
+You can also always email
+: [opentry@outlook.com](mailto:writerside@jetbrains.com).
+
+
 <seealso>
-    <category ref="add-res">
+<category ref="additional">
         <a href="https://www.java.com">Java website</a>
         <a href="https://docs.oracle.com/javase/tutorial">Java Tutorials</a>
         <a href="https://docs.oracle.com/en/java">Java Developer Guide</a>
         <a href="https://www.javaprogrammingforums.com">Java Forum</a>
-    </category>
+</category>
+<category ref="related">
+        <a href="https://www.java.com">Java website</a>
+        <a href="https://docs.oracle.com/javase/tutorial">Java Tutorials</a>
+        <a href="https://docs.oracle.com/en/java">Java Developer Guide</a>
+        <a href="https://www.javaprogrammingforums.com">Java Forum</a>
+</category>
+<category ref="other">
+        <a href="https://www.java.com">Java website</a>
+        <a href="https://docs.oracle.com/javase/tutorial">Java Tutorials</a>
+        <a href="https://docs.oracle.com/en/java">Java Developer Guide</a>
+        <a href="https://www.javaprogrammingforums.com">Java Forum</a> </category>
 </seealso>

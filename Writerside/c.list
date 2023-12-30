@@ -2,5 +2,7 @@
 <!DOCTYPE categories
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
 <categories>
-    <category id="add-res" name="Additional resources" order="1"/>
+    <category id="additional" name="Additional resources" order="1"/>
+    <category id="related" name="Related resources" order="2"/>
+    <category id="other" name="Other resources" order="3"/>
 </categories>

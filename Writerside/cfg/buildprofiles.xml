@@ -3,7 +3,7 @@
     <variables>
         <primary-color>frozen</primary-color>
         <!--custom-favicons> favicon.ico</custom-favicons-->
-        <!--header-logo>logo_main.svg</header-logo -->
+        <header-logo>logo_main.svg</header-logo>
         <product-web-url>https://docsjava.github.io/overview.html</product-web-url>
         <download-title>Contribute</download-title>
         <download-page>https://github.com/docsjava</download-page>

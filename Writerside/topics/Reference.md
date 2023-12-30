@@ -84,7 +84,7 @@ WOWOWOWOWOWO
     \end{equation}
 </code-block>
 
-![Getting started](apple-touch-icon.png)
+![Getting started](new_topic_options.png)
 
 <video src="https://youtu.be/BeJu9bMPLGU"/>
 

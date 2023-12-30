@@ -20,8 +20,17 @@ Before you do, please read our [Code of conduct](https://plugins.jetbrains.com/p
 We assume that you’ve read and acknowledged it before joining.
 
 #### Feedback {collapsible="true"}
-You can also always email 
+
+You can also always email
 : [opentry@outlook.com](mailto:writerside@jetbrains.com).
+
+> **Note**
+>
+> Here, this content is in preview stage.
+> Your suggestion and feedback is matter to us.
+> Feel free to reach us via email
+>
+{style="note"}
 
 <seealso>
     <category ref="add-res">

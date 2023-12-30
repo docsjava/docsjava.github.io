@@ -2,7 +2,7 @@
                xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
     <variables>
         <primary-color>frozen</primary-color>
-        <custom-favicons>favicon.ico,favicon-16x16.png,favicon-32x32.png</custom-favicons>
+        <custom-favicons>favicon.ico</custom-favicons>
         <header-logo>logo_main.svg</header-logo>
         <product-web-url>https://docsjava.github.io/overview.html</product-web-url>
         <download-title>Contribute</download-title>
